@@ -1,0 +1,78 @@
+c:\users\燕竹\documents\visual studio 2013\Projects\C0504A\C0504A\bin\Debug\C0504A.exe.config
+c:\users\燕竹\documents\visual studio 2013\Projects\C0504A\C0504A\bin\Debug\C0504A.exe
+c:\users\燕竹\documents\visual studio 2013\Projects\C0504A\C0504A\bin\Debug\C0504A.pdb
+c:\users\燕竹\documents\visual studio 2013\Projects\C0504A\C0504A\obj\Debug\C0504A.csprojResolveAssemblyReference.cache
+c:\users\燕竹\documents\visual studio 2013\Projects\C0504A\C0504A\obj\Debug\C0504A.Form1.resources
+c:\users\燕竹\documents\visual studio 2013\Projects\C0504A\C0504A\obj\Debug\C0504A.Properties.Resources.resources
+c:\users\燕竹\documents\visual studio 2013\Projects\C0504A\C0504A\obj\Debug\C0504A.csproj.GenerateResource.Cache
+c:\users\燕竹\documents\visual studio 2013\Projects\C0504A\C0504A\obj\Debug\C0504A.exe
+c:\users\燕竹\documents\visual studio 2013\Projects\C0504A\C0504A\obj\Debug\C0504A.pdb
+C:\Users\洪燕竹\Downloads\CSharp05\C0504A\C0504A\bin\Debug\C0504A.exe.config
+C:\Users\洪燕竹\Downloads\CSharp05\C0504A\C0504A\obj\Debug\C0504A.exe
+C:\Users\洪燕竹\Downloads\CSharp05\C0504A\C0504A\obj\Debug\C0504A.pdb
+C:\Users\洪燕竹\Downloads\CSharp05\C0504A\C0504A\bin\Debug\C0504A.exe
+C:\Users\洪燕竹\Downloads\CSharp05\C0504A\C0504A\bin\Debug\C0504A.pdb
+C:\Users\洪燕竹\Downloads\CSharp05\C0504A\C0504A\obj\Debug\C0504A.csprojResolveAssemblyReference.cache
+C:\Users\洪燕竹\Downloads\CSharp05\C0504A\C0504A\obj\Debug\C0504A.Form1.resources
+C:\Users\洪燕竹\Downloads\CSharp05\C0504A\C0504A\obj\Debug\C0504A.Properties.Resources.resources
+C:\Users\洪燕竹\Downloads\CSharp05\C0504A\C0504A\obj\Debug\C0504A.csproj.GenerateResource.Cache
+C:\Users\洪燕竹\Downloads\CSharp05\C0504\C0504A\bin\Debug\C0504A.exe.config
+C:\Users\洪燕竹\Downloads\CSharp05\C0504\C0504A\obj\Debug\C0504A.exe
+C:\Users\洪燕竹\Downloads\CSharp05\C0504\C0504A\obj\Debug\C0504A.pdb
+D:\C#教學\CSharp05\C0504\C0504A\bin\Debug\C0504A.exe.config
+D:\C#教學\CSharp05\C0504\C0504A\obj\Debug\C0504A.exe
+D:\C#教學\CSharp05\C0504\C0504A\obj\Debug\C0504A.pdb
+D:\C#教學\CSharp05\C0504\C0504A\bin\Debug\C0504A.exe
+D:\C#教學\CSharp05\C0504\C0504A\bin\Debug\C0504A.pdb
+D:\C#教學\CSharp05\C0504\C0504A\obj\Debug\C0504A.csprojResolveAssemblyReference.cache
+D:\C#教學\CSharp05\C0504\C0504A\obj\Debug\C0504A.Form1.resources
+D:\C#教學\CSharp05\C0504\C0504A\obj\Debug\C0504A.Properties.Resources.resources
+D:\C#教學\CSharp05\C0504\C0504A\obj\Debug\C0504A.csproj.GenerateResource.Cache
+F:\CSharp05A\C0504\C0504A\bin\Debug\C0504A.exe.config
+F:\CSharp05A\C0504\C0504A\obj\Debug\C0504A.exe
+F:\CSharp05A\C0504\C0504A\obj\Debug\C0504A.pdb
+F:\CSharp05A\C0504\C0504A\bin\Debug\C0504A.exe
+F:\CSharp05A\C0504\C0504A\bin\Debug\C0504A.pdb
+F:\CSharp05A\C0504\C0504A\obj\Debug\C0504A.csprojResolveAssemblyReference.cache
+F:\CSharp05A\C0504\C0504A\obj\Debug\C0504A.Form1.resources
+F:\CSharp05A\C0504\C0504A\obj\Debug\C0504A.Properties.Resources.resources
+F:\CSharp05A\C0504\C0504A\obj\Debug\C0504A.csproj.GenerateResource.Cache
+C:\Users\kuizu\Desktop\學校資料\Csherp5\C0504\C0504A\bin\Debug\C0504A.exe.config
+C:\Users\kuizu\Desktop\學校資料\Csherp5\C0504\C0504A\bin\Debug\C0504A.exe
+C:\Users\kuizu\Desktop\學校資料\Csherp5\C0504\C0504A\bin\Debug\C0504A.pdb
+C:\Users\kuizu\Desktop\學校資料\Csherp5\C0504\C0504A\obj\Debug\C0504A.csproj.AssemblyReference.cache
+C:\Users\kuizu\Desktop\學校資料\Csherp5\C0504\C0504A\obj\Debug\C0504A.csproj.SuggestedBindingRedirects.cache
+C:\Users\kuizu\Desktop\學校資料\Csherp5\C0504\C0504A\obj\Debug\C0504A.Form1.resources
+C:\Users\kuizu\Desktop\學校資料\Csherp5\C0504\C0504A\obj\Debug\C0504A.Properties.Resources.resources
+C:\Users\kuizu\Desktop\學校資料\Csherp5\C0504\C0504A\obj\Debug\C0504A.csproj.GenerateResource.cache
+C:\Users\kuizu\Desktop\學校資料\Csherp5\C0504\C0504A\obj\Debug\C0504A.csproj.CoreCompileInputs.cache
+C:\Users\kuizu\Desktop\學校資料\Csherp5\C0504\C0504A\obj\Debug\C0504A.exe
+C:\Users\kuizu\Desktop\學校資料\Csherp5\C0504\C0504A\obj\Debug\C0504A.pdb
+C:\Users\kuizu\Desktop\學校資料\Csherp5\C0504\C0504A\obj\Debug\Interop.WMPLib.dll
+C:\Users\kuizu\Desktop\學校資料\Csherp5\C0504\C0504A\obj\Debug\C0504A.csproj.ResolveComReference.cache
+C:\Users\kuizu\Desktop\視窗期末\C0504A\bin\Debug\C0504A.exe.config
+C:\Users\kuizu\Desktop\視窗期末\C0504A\bin\Debug\C0504A.exe
+C:\Users\kuizu\Desktop\視窗期末\C0504A\bin\Debug\C0504A.pdb
+C:\Users\kuizu\Desktop\視窗期末\C0504A\obj\Debug\C0504A.csproj.AssemblyReference.cache
+C:\Users\kuizu\Desktop\視窗期末\C0504A\obj\Debug\C0504A.csproj.SuggestedBindingRedirects.cache
+C:\Users\kuizu\Desktop\視窗期末\C0504A\obj\Debug\Interop.WMPLib.dll
+C:\Users\kuizu\Desktop\視窗期末\C0504A\obj\Debug\C0504A.csproj.ResolveComReference.cache
+C:\Users\kuizu\Desktop\視窗期末\C0504A\obj\Debug\C0504A.Form1.resources
+C:\Users\kuizu\Desktop\視窗期末\C0504A\obj\Debug\C0504A.Properties.Resources.resources
+C:\Users\kuizu\Desktop\視窗期末\C0504A\obj\Debug\C0504A.csproj.GenerateResource.cache
+C:\Users\kuizu\Desktop\視窗期末\C0504A\obj\Debug\C0504A.csproj.CoreCompileInputs.cache
+C:\Users\kuizu\Desktop\視窗期末\C0504A\obj\Debug\C0504A.exe
+C:\Users\kuizu\Desktop\視窗期末\C0504A\obj\Debug\C0504A.pdb
+C:\Users\user\OneDrive - 國立嘉義大學\桌面\課\大二上\視窗程式設計\視窗期末\視窗期末\C0504A\bin\Debug\C0504A.exe.config
+C:\Users\user\OneDrive - 國立嘉義大學\桌面\課\大二上\視窗程式設計\視窗期末\視窗期末\C0504A\bin\Debug\C0504A.exe
+C:\Users\user\OneDrive - 國立嘉義大學\桌面\課\大二上\視窗程式設計\視窗期末\視窗期末\C0504A\bin\Debug\C0504A.pdb
+C:\Users\user\OneDrive - 國立嘉義大學\桌面\課\大二上\視窗程式設計\視窗期末\視窗期末\C0504A\obj\Debug\C0504A.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - 國立嘉義大學\桌面\課\大二上\視窗程式設計\視窗期末\視窗期末\C0504A\obj\Debug\C0504A.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive - 國立嘉義大學\桌面\課\大二上\視窗程式設計\視窗期末\視窗期末\C0504A\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\OneDrive - 國立嘉義大學\桌面\課\大二上\視窗程式設計\視窗期末\視窗期末\C0504A\obj\Debug\C0504A.csproj.ResolveComReference.cache
+C:\Users\user\OneDrive - 國立嘉義大學\桌面\課\大二上\視窗程式設計\視窗期末\視窗期末\C0504A\obj\Debug\C0504A.Form1.resources
+C:\Users\user\OneDrive - 國立嘉義大學\桌面\課\大二上\視窗程式設計\視窗期末\視窗期末\C0504A\obj\Debug\C0504A.Properties.Resources.resources
+C:\Users\user\OneDrive - 國立嘉義大學\桌面\課\大二上\視窗程式設計\視窗期末\視窗期末\C0504A\obj\Debug\C0504A.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - 國立嘉義大學\桌面\課\大二上\視窗程式設計\視窗期末\視窗期末\C0504A\obj\Debug\C0504A.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - 國立嘉義大學\桌面\課\大二上\視窗程式設計\視窗期末\視窗期末\C0504A\obj\Debug\C0504A.exe
+C:\Users\user\OneDrive - 國立嘉義大學\桌面\課\大二上\視窗程式設計\視窗期末\視窗期末\C0504A\obj\Debug\C0504A.pdb
